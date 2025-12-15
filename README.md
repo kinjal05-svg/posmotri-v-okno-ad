@@ -2,4 +2,4 @@
 
 Учебный проект Яндекс.Практикум
 
-https://github.com/NikitaOXet/posmotri-v-okno-ad
+https://github.com/kinjal05-svg/posmotri-v-okno-ad
